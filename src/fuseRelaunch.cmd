@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/152/Documents/QuanjieJin/MatchingGame-old13/TestMatchingGame_isim_beh.exe" -prj "C:/Users/152/Documents/QuanjieJin/MatchingGame-old13/TestMatchingGame_beh.prj" "work.TestMatchingGame" "work.glbl" 

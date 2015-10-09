@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/jinsolj/MatchingGame-old10/impact.xsl
+OUTFILE=/home/jinsolj/MatchingGame-old10/impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=/home/jinsolj/MatchingGame-old10
+LICENSE=iMPACT
+USER_INFO=iMPACT
